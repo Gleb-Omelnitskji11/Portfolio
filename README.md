@@ -116,5 +116,19 @@ Blackjack 21 https://www.youtube.com/watch?v=_RhZQFw00H4 https://play.google.com
 
 Also in AlphaNova helped/work on AR and WebGl projects
 
+### PetProjects
+
+Armored Car https://github.com/Gleb-Omelnitskji11/CarZomboid
+![ArmoredCarGameplay.gif](PetProjects/ArmoredCarGameplay.gif)
+* Different enemies, modular player car;
+* dynamic ground;
+* gpu instancing,
+* object pooling enemies and bullet;
 
 
+Robot platformer https://github.com/Gleb-Omelnitskji11/Platformer
+![PlatformerGameplay.gif](PetProjects/PlatformerGameplay.gif)
+
+Football https://bitbucket.org/GlOme/workspace/projects/LAG
+![FootballGameplay.gif](PetProjects/FootballGameplay.gif)
+Multiplayer football by mirror
