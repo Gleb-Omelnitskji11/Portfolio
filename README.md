@@ -1,6 +1,10 @@
 # Portfolio
 
-Hello, My name is Glib Omelnytskyi. I started working as a Unity developer in 2020. During this time I create a lot of games and projects, thats will be described here.
+Hi! I'm **Glib Omelnytskyi**, a Unity Developer with almost 5 years of commercial experience.
+
+I specialize in mobile games, scalable architecture, gameplay systems, optimization and visual effects.
+
+Throughout my career, I have worked on projects with more than **15 million downloads**, including casual, hyper-casual, mid-core, VR and WebGL applications.
 
 ## Resume
 
@@ -8,133 +12,170 @@ Hello, My name is Glib Omelnytskyi. I started working as a Unity developer in 20
 
 ##Links
 
-https://www.linkedin.com/in/glib-omelnytskyi-a1847b173/
-omelniskij@gmail.com
-https://t.me/Glib_Omelnytskyi
+LinkedIn https://www.linkedin.com/in/glib-omelnytskyi-a1847b173/
+Email omelniskij@gmail.com
+Telegram https://t.me/Glib_Omelnytskyi
 
-## About me
+## Core Skills
 
-- almost 5 years of commercial Unity development
-- Mobile (Hyper Casual, Puzzle, Midcore)
-- PC VR prototype
-- Strong focus on architecture and optimization
-
-Main stack:
-
-- Unity
-- C#
-- Zenject and VContainer
-- async operation (UniTask, DOTween, ...)
-- Optimization (Profiler, Addressables, batching)
-- SDK (Firebase, Applovin, IronSource)
-- mobile, pc, VR/AR and web platforms
-- REST API
-- Git
+- Architecture and Gameplay programming
+- CPU and GPU optimization
+- Addressables
+- SDK Integration (Firebase, Meta, ...)
+- Build size reduction
+- Editor Tools (automation)
+- Client-server features
 
 ---
 
-## Portfolio
+## Key achievements
 
-This repository contains references to my pet projects and videos of a gameplay from the commercial projects, because of NDA, I cannot publish the source code of commercial projects.
+* Reduced startup time by 35% (40 → 26 seconds)
+* Reduced Android build size by 15%
+* Createв internal editor tools for designers
+* Integrated 10+ third-party SDKs
+* Published multiple games on Google Play
+* Developed cloud save and cross-device synchronization
+* Implemented Addressables and content delivery
+* Improved Google Play rating by 1.6 stars on one project
 
 ---
 
 ### DadGames
-Mobile, VR, PC
 
 Casual:
 
 Puzzle Lore
+Mobile platforms
 [PuzzleLoreMeta.mov](DadGames/PuzzleLoreMeta.mov)
 [PuzzleLoreGameplay.mov](DadGames/PuzzleLoreGameplay.mov)
-* Heroes and items crafting&upgrading system;
-* Map system;
-* Heroes and enemies spells;
-* Reduce launch time;
-* Ui;
-* cheats;
-* editor tools;
+* Developed crafting and upgrading systems
+* Implemented hero and enemies abilities
+* Developed and layout world map
+* Reduce launch time
+* Implemented player progression
+* Reduced startup time by 35%
+* Implemented flexible UI for different screen resolutions
+* Add srddebbuger
+* Createв internal editor tools
 
 Hybrid:
 
-Puzzle-Match https://play.google.com/store/apps/details?id=com.SparksGames.JumWorldMatchPuzzleGame [GameplayPuzzleMatch.mp4](DadGames/GameplayPuzzleMatch.mp4)
-* Match-3 gameplay, Level map and other UI;
-* Firebase sdk: analytics, config, crashlytics, messaging;
-* Ads: AdMob, IronSource and some of cmp sdk;
+Puzzle-Match
+Android
+https://play.google.com/store/apps/details?id=com.SparksGames.JumWorldMatchPuzzleGame [GameplayPuzzleMatch.mp4](DadGames/GameplayPuzzleMatch.mp4)
+* Match-3 gameplay and effects
+* Graphics (UI, animation) and audio
+* Firebase sdk: analytics, config, crashlytics, messaging
+* Ads: AdMob, IronSource and some of cmp sdk
 * Adjust
+* GoogleStore services (IAP, Leaderboard, Cloud saving)
 
-FruitSwipe https://play.google.com/store/apps/details?id=com.SparksGames.FruitSwipe [GameplayFruitSwipe.mp4](DadGames/GameplayFruitSwipe.mp4)
-* Gameplay Mechanics;
-* UI;
-* Integrated and configured sdk;
+Fruit Swipe
+Android
+https://play.google.com/store/apps/details?id=com.SparksGames.FruitSwipe [GameplayFruitSwipe.mp4](DadGames/GameplayFruitSwipe.mp4)
+* Gameplay: type selection, fruit spawner control, etc
+* Graphics (UI, animation) and audio
+* Integrated and configured sdk (firebase, adjust, admob, irossource, infatica, refApi)
+* GoogleStore services (IAP, Leaderboard, Cloud saving)
 
 Hyper:
-
+Prototypes
+Mobile platforms
 [GameplayOneLine.mp4](DadGames/GameplayOneLine.mp4)
 [GameplayCosmoPanda.mp4](DadGames/GameplayCosmoPanda.mp4)
 [GameplayCookieSplit.mp4](DadGames/GameplayCookieSplit.mp4)
-* Gameplay, Meta, Sdk;
+* Gameplay mechanics
+* Meta features (quest, health time restoring, ...)
+* integrating Sdk (firebase, applovin max, ...)
 
-VR ![photo_2026-07-02_20-15-01.jpg](DadGames/photo_2026-07-02_20-15-01.jpg)
-* Analytics;
-* GPU optimization;
+School hospital
+VR
+![photo_2026-07-02_20-15-01.jpg](DadGames/photo_2026-07-02_20-15-01.jpg)
+* Analytics
+* GPU optimization
+
+Also worked on DanceFloor (PC), project for windows tablet with pseudo multitouch.
 
 ### Enixan Entertainment
-Mobile
 
-Yukon family https://www.youtube.com/watch?v=KXyLrSLKrLY https://play.google.com/store/apps/details?id=com.enixan.yukon.family.adventure
-* Upgrading building;
-* Add new nits (animals, landscape objects,..);
-* Battlepass system;
-* Ui;
+Yukon family
+Mobile platforms
+https://www.youtube.com/watch?v=KXyLrSLKrLY https://play.google.com/store/apps/details?id=com.enixan.yukon.family.adventure
+* Gameplay features (for example Upgrading building)
+* Added new units (animals, landscape objects,..)
+* Battlepass system
+* Graphics (UI, animation, effects)
+* Work on localization Ui
 
-Oregon trail https://www.youtube.com/shorts/RRZY-Gk2HE0 https://play.google.com/store/apps/details/The_Oregon_Trail_Boom_Town?id=com.tiltingpoint.oregon.trail.settlers&hl=en_AU
-* Event gameplay Mechanics;
+Oregon trail
+Mobile platforms
+https://www.youtube.com/shorts/RRZY-Gk2HE0 https://play.google.com/store/apps/details/The_Oregon_Trail_Boom_Town?id=com.tiltingpoint.oregon.trail.settlers&hl=en_AU
+* Event gameplay Mechanics
 
 ### Murka (outstaff)
-Mobile
 
-Wordelicious 1 https://www.youtube.com/shorts/cFZ6DPGEwKg https://play.google.com/store/apps/details?id=com.murka.word.wordelicious.crossword
-* Created level editor. In particular, the selection word algorithm for the crossword was greatly optimized;
-* Setup ads;
-* UI;
-* Analytics;
+Wordelicious 1
+Mobile platforms
+https://www.youtube.com/shorts/cFZ6DPGEwKg https://play.google.com/store/apps/details?id=com.murka.word.wordelicious.crossword
+* Created level editor. In particular, the selection word algorithm for the crossword was greatly optimized
+* Integrated advertising SDKs
+* UI and animation
+* Analytics
 
-Braindoku https://www.youtube.com/watch?v=pz7LbIfnaTI https://play.google.com/store/apps/details?id=com.murka.braindoku.sudoku.block.puzzle
-* Gameplay: rotating, auto hint, difficult curve;
-* UI;
-* Effects (Animation, particles);
-* Settuped analytics and ads;
+Braindoku
+Mobile platforms
+https://www.youtube.com/watch?v=pz7LbIfnaTI https://play.google.com/store/apps/details?id=com.murka.braindoku.sudoku.block.puzzle
+* Gameplay: rotating, auto hint, difficult curve
+* UI and animation
+* Effects (Animation, particles)
+* Settled analytics and ads
 
-Wordelicious food&travel https://www.youtube.com/watch?v=uh0YjDguu9I https://play.google.com/store/apps/details?id=com.murka.word.wordelicious.food.travel
-* UI, animation, vfx, audio;
-* New gameplay modes;
-* Meta: quests, daily rewards;
-* Cloud features: cloud saving, leaderboard;
-* Build size optimization;
-* Perfomance optimization;
-* ReDesign;
+Wordelicious food&travel
+Mobile platforms
+https://www.youtube.com/watch?v=uh0YjDguu9I https://play.google.com/store/apps/details?id=com.murka.word.wordelicious.food.travel
+* UI, animation, vfx, audio
+* New gameplay modes
+* Meta: quests, daily rewards
+* Cloud features: cloud saving, leaderboard
+* Reduced Android build size by optimizing textures, sprites and Addressables
+* Performance optimization
+* ReDesign
+* Provide Localization system
 
-Blackjack 21 https://www.youtube.com/watch?v=_RhZQFw00H4 https://play.google.com/store/apps/details?id=com.murka.blackjack.cards21
-* Bugfixes;
-* Code refactoring;
-* Live-ops;
+Blackjack 21
+Mobile platforms
+https://www.youtube.com/watch?v=_RhZQFw00H4 https://play.google.com/store/apps/details?id=com.murka.blackjack.cards21
+* Bugfixes
+* Code refactoring
+* Live-ops
 
 Also in AlphaNova helped/work on AR and WebGl projects
 
 ### PetProjects
 
-Armored Car https://github.com/Gleb-Omelnitskji11/CarZomboid
+Armored Car
+Mobile platforms
+https://github.com/Gleb-Omelnitskji11/CarZomboid
 ![ArmoredCarGameplay.gif](PetProjects/ArmoredCarGameplay.gif)
-* Different enemies, modular player car;
-* dynamic ground;
-* gpu instancing,
-* object pooling enemies and bullet;
+* Different enemies, modular player car
+* Implemented endless procedural ground generation.
+* Reduce draw calls (gpu instancing, static batching)
+* Object pooling enemies and bullet
 
 
-Robot platformer https://github.com/Gleb-Omelnitskji11/Platformer
+Robot platformer
+PC
+https://github.com/Gleb-Omelnitskji11/Platformer
 ![PlatformerGameplay.gif](PetProjects/PlatformerGameplay.gif)
+* Character part collision system
+* 3 types of character interaction
+* cinematic camera
+* LOD system
 
-Football https://bitbucket.org/GlOme/workspace/projects/LAG
+Football
+PC
+https://bitbucket.org/GlOme/workspace/projects/LAG
 ![FootballGameplay.gif](PetProjects/FootballGameplay.gif)
-Multiplayer football by mirror
+* Multiplayer football by MIRROR
+
