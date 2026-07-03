@@ -26,6 +26,46 @@ Telegram https://t.me/Glib_Omelnytskyi
 - Editor Tools (automation)
 - Client-server features
 
+## Technologies
+
+**Programming**
+- Unity
+- C#
+- .NET
+- OOP, SOLID, DRY 
+
+**Frameworks**
+- Addressables
+- Zenject and VContainer
+- UniTask
+- DOTween
+- Timeline
+- Unirx
+
+**Optimization**
+- Profiler
+- Frame debugger
+- Addressables
+- Object Pooling
+- Reduce draw calls (GPU Instancing, static batching, light baking, atlases)
+- Texture and atlases packing
+
+**Services**
+- Firebase
+- Adjust
+- Meta
+- AppLovin MAX
+- IronSource
+- Google Play Services
+- REST API
+
+**Platforms**
+- Android
+- iOS
+- Windows
+- WebGL
+- VR
+
 ---
 
 ## Key achievements
