@@ -75,7 +75,7 @@ Telegram https://t.me/Glib_Omelnytskyi
 * Createв internal editor tools for designers
 * Integrated 10+ third-party SDKs
 * Published multiple games on Google Play
-* Developed cloud save and cross-device synchronization
+* Developed cloud saving and cross-device synchronization
 * Implemented Addressables and content delivery
 * Improved Google Play rating by 1.6 stars on one project
 
@@ -91,7 +91,7 @@ Mobile platforms
 [PuzzleLoreGameplay.mov](DadGames/PuzzleLoreGameplay.mov)
 * Developed crafting and upgrading systems
 * Implemented hero and enemies abilities
-* Developed and layout world map
+* Developed and layout world map and minimap shaders
 * Reduce launch time
 * Implemented player progression
 * Reduced startup time by 35%
