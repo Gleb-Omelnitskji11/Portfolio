@@ -6,6 +6,12 @@ Hello, My name is Glib Omelnytskyi. I started working as a Unity developer in 20
 
 📄 [Resume (PDF)](CV/OmelnytskyiCV.pdf)
 
+##Links
+
+https://www.linkedin.com/in/glib-omelnytskyi-a1847b173/
+omelniskij@gmail.com
+https://t.me/Glib_Omelnytskyi
+
 ## About me
 
 - almost 5 years of commercial Unity development
